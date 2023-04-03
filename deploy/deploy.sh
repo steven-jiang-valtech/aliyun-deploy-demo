@@ -1,1 +1,1 @@
-../app/run.sh
+./run.sh
